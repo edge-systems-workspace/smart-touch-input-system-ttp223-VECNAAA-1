@@ -41,7 +41,7 @@ void loop() {
 
     // TODO 6:
     // Read digital value from touch sensor
-    // touchState = digitalRead(touchPin);
+    touchState = digitalRead(touchPin);
 
     // TODO 7:
     // If touch detected (HIGH)
