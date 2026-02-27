@@ -31,10 +31,10 @@ void setup() {
 
     // TODO 5:
     // Print system initialization message
-    // Serial.println("==================================");
-    // Serial.println(" TTP223 Touch Detection System ");
-    // Serial.println(" System Initialized Successfully ");
-    // Serial.println("==================================");
+    Serial.println("==================================");
+    Serial.println(" TTP223 Touch Detection System ");
+    Serial.println(" System Initialized Successfully ");
+    Serial.println("==================================");
 }
 
 void loop() {
