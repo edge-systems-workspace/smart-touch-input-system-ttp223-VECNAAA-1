@@ -27,7 +27,7 @@ void setup() {
 
     // TODO 4:
     // Configure touch pin as INPUT
-    // pinMode(touchPin, INPUT);
+    pinMode(touchPin, INPUT);
 
     // TODO 5:
     // Print system initialization message
